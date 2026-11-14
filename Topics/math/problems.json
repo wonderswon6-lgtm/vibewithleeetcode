@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-14T13:09:37.140Z",
+  "updatedAt": "2026-11-14T13:11:17.853Z",
   "problems": [
     {
       "frontendId": "7",
@@ -24,6 +24,26 @@
           "path": "0007-reverse-integer/0007-reverse-integer.cpp",
           "sha": "1a844f4d91e28a5aaef4fcbcdee4e44ed7e49858",
           "lastSyncedAt": "2026-11-14T13:09:37.140Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "7bfbb0f733c89ad333ea6a2deccb58a8f1f0ef2a",
+          "lastSyncedAt": "2026-11-14T13:11:17.853Z"
         }
       ]
     }
