@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-11-14T13:08:48.317Z",
-  "problems": []
+  "updatedAt": "2026-11-14T13:09:37.140Z",
+  "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0007-reverse-integer.cpp",
+          "path": "0007-reverse-integer/0007-reverse-integer.cpp",
+          "sha": "1a844f4d91e28a5aaef4fcbcdee4e44ed7e49858",
+          "lastSyncedAt": "2026-11-14T13:09:37.140Z"
+        }
+      ]
+    }
+  ]
 }
