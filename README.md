@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 0 | 1 | 0 |
+| 2 | 1 | 1 | 0 |
 
 ## Activity
 
@@ -15,17 +15,17 @@
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-14 | 1 |
+| 2026-11-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 1 | 100% |
+| Math | 2 | 100% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 <!---LeetHub Summary End-->
