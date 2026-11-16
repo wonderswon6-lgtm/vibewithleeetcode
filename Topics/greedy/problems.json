@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy",
+    "tagId": "17"
+  },
+  "updatedAt": "2026-11-16T15:41:32.943Z",
+  "problems": [
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0179-largest-number.cpp",
+          "path": "0179-largest-number/0179-largest-number.cpp",
+          "sha": "fd5f4eb58e94d14131585429e1d55c9a03d26631",
+          "lastSyncedAt": "2026-11-16T15:41:32.943Z"
+        }
+      ]
+    }
+  ]
+}
