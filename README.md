@@ -27,5 +27,9 @@
 
 | Topic | Problems |
 | --- | ---: |
+| [Array](Topics/array/) | 1 |
+| [Greedy](Topics/greedy/) | 1 |
 | [Math](Topics/math/) | 2 |
+| [Sorting](Topics/sorting/) | 1 |
+| [String](Topics/string/) | 1 |
 <!---LeetHub Summary End-->
