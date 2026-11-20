@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T00:03:33.000Z",
+  "updatedAt": "2026-11-20T00:09:57.862Z",
   "problems": [
     {
       "frontendId": "26",
@@ -83,7 +83,7 @@
           "filename": "2089-find-target-indices-after-sorting-array.cpp",
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "1f119868187abf095a8d5f3b5a4c5a00e0bafab7",
-          "lastSyncedAt": "2026-11-20T00:03:33.000Z"
+          "lastSyncedAt": "2026-11-20T00:09:57.862Z"
         }
       ]
     }
