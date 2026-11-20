@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T15:41:38.578Z",
+  "updatedAt": "2026-11-20T00:03:33.000Z",
   "problems": [
     {
       "frontendId": "179",
@@ -24,6 +24,26 @@
           "path": "0179-largest-number/0179-largest-number.cpp",
           "sha": "fd5f4eb58e94d14131585429e1d55c9a03d26631",
           "lastSyncedAt": "2026-11-16T15:41:38.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2089-find-target-indices-after-sorting-array.cpp",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
+          "sha": "1f119868187abf095a8d5f3b5a4c5a00e0bafab7",
+          "lastSyncedAt": "2026-11-20T00:03:33.000Z"
         }
       ]
     }
