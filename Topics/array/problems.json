@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T00:09:57.862Z",
+  "updatedAt": "2026-11-21T01:04:02.736Z",
   "problems": [
     {
       "frontendId": "26",
@@ -64,6 +64,26 @@
           "path": "0179-largest-number/0179-largest-number.cpp",
           "sha": "fd5f4eb58e94d14131585429e1d55c9a03d26631",
           "lastSyncedAt": "2026-11-16T15:41:38.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.cpp",
+          "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.cpp",
+          "sha": "133ba2ca04f82ffbed649d75996c9d2a22dd7226",
+          "lastSyncedAt": "2026-11-21T01:04:02.736Z"
         }
       ]
     },
